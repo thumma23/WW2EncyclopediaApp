@@ -74,8 +74,8 @@
 				D912D9CE268D87D2002ECFB8 /* MajorEvents.swift */,
 				D9F70D39268B7DD400F6337C /* Events.swift */,
 				D9F70D37268B7C8C00F6337C /* Event.swift */,
-				D9F70D2A268A851600F6337C /* Assets.xcassets */,
 				D9F70D3B268B878800F6337C /* WW2Events.json */,
+				D9F70D2A268A851600F6337C /* Assets.xcassets */,
 				D9F70D2F268A851600F6337C /* Info.plist */,
 				D9F70D2C268A851600F6337C /* Preview Content */,
 			);
