@@ -4,5 +4,7 @@ This iOS app is an encyclopedia about WW2 events. It is meant to be used for peo
 
 ## Features
 ### Explore
-![alt text](<img width="308" alt="Screen Shot 2021-07-16 at 8 26 29 PM" src="https://user-images.githubusercontent.com/41020226/126021320-f60836c4-4c65-43c8-97ba-0be84a0fae6e.png">)
+![alt text](/Explore.jpg)
+
+In the Explore page, users can explore 40+ significant events in WW2. By swiping through various events, users can pick and choose which events they would like to explore and learn more about it in the Conent View (which is shown below)
 
