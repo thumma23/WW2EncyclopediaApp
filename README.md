@@ -1,12 +1,12 @@
 # WW2EncyclopediaApp
 
-This iOS app is an encyclopedia about WW2 events. It is meant to be used for people who would like to learn more about the events that led to and occured during the deadliest conflict in human history.
+This iOS app is an encyclopedia about WW2 events. It is meant to be used for people who would like to learn more about the events that led to and occurred during the deadliest conflict in human history.
 
 ## Features
 ### Explore
 ![alt text](/Explore.png)
 
-In the Explore page, users can explore 40+ significant events in WW2. By swiping through various events, users can pick and choose which events they would like to explore and learn more about it in the Conent View (which is shown below)
+In the Explore page, users can explore 40+ significant events in WW2. By swiping through various events, users can pick and choose which events they would like to explore and learn more about it in the Content View (which is shown below)
 
 ### Content View
 ![alt text](/contentview.png)
@@ -16,7 +16,7 @@ In the Content View page, users can get detailed explanations of specific user-s
 ### Map View
 ![alt text](/map.png)
 
-In the Map View page, users can scroll around a map and click on certain "pin points", which map to specific major events during WW2. Major events are certain events that changed the direction of the war, thus bearing a more significant standing then other events on the app. When a user clicks on a pin, the app will redirect them to a Content View of that specific event.
+In the Map View page, users can scroll around a map and click on certain "pin points", which map to specific major events during WW2. Major events are certain events that changed the direction of the war, thus bearing a more significant standing than other events on the app. When a user clicks on a pin, the app will redirect them to a Content View of that specific event.
 
 ### Search
 ![alt text](/search.png)
