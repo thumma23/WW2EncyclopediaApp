@@ -23,9 +23,6 @@ In the Map View page, users can scroll around a map and click on certain "pin po
 
 In the Search Page, users can search for specific events out of the 40+ present on the app. All users have to do is type in the name of the event and then click on it. This will then redirect the user to a Content View of that specific event.
 
-### Video of App
-[Video of App](https://www.kapwing.com/videos/60f36b792e45fa0103e5093d)
-
 
 
 
